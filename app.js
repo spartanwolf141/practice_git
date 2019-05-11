@@ -20,3 +20,6 @@ function fullName(firstname, lastname){
     return num1 + ' plus ' + num2 + ' equals ' + sum; 
   }
   console.log(sen(num1, num2))
+
+  var food = 'oreos'
+  
