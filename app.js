@@ -21,5 +21,5 @@ function fullName(firstname, lastname){
   }
   console.log(sen(num1, num2))
 
-  var food = 'oreos'
-  
+  var food = 'oreos';
+  var drink = 'milk';
